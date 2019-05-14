@@ -18,3 +18,5 @@ The implementation is based on:
 - https://github.com/phanein/deepwalk (deepwalk reference implementation by the authors)
 - https://github.com/benedekrozemberczki/walklets (walklets)
 - https://github.com/adocherty/node2vec_linkprediction (link prediction task)
+
+[![DOI](https://zenodo.org/badge/186676481.svg)](https://zenodo.org/badge/latestdoi/186676481)
